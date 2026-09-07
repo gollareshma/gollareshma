@@ -83,21 +83,41 @@
 
   ### 📌 Featured projects
 
-  | Project | What it is | Stack |
-  |---|---|---|
-  | **[AI Video Intelligence](https://github.com/gollareshma/AI_Video_Intelligence)** | Search CCTV footage in
-  plain language, typed or spoken. A 17-stage pipeline turns video into searchable events — detection, tracking,
-  captioning, CLIP embeddings — queried by a LangGraph agent that returns matching clips cut at the timestamp |
-  `Python` `PyTorch` `FastAPI` `Docker` `ChromaDB` `React` |
-  | **[Kubernetes Voting App](https://github.com/gollareshma/K8s-voting-app)** | Microservices on Kubernetes with
-  CI/CD, autoscaling, network policies, Prometheus/Grafana monitoring and five documented chaos experiments |
-  `Kubernetes` `GitHub Actions` `Prometheus` `Grafana` |
-  | **[Employee API — CI/CD](https://github.com/gollareshma/employee-api-cicd)** | Flask REST API with JWT auth,
-  containerised and delivered through a Jenkins pipeline on AWS EC2 | `Flask` `Jenkins` `Docker` `MySQL` |
-  | **[LAMP Stack DevOps](https://github.com/gollareshma/lamp-stack-devops-project)** | Provisioning a full LAMP
-  stack two ways — Bash scripting versus an idempotent Ansible playbook | `Ansible` `Bash` `AWS EC2` `Apache` |
+  #### 🎥 [AI Video Intelligence](https://github.com/gollareshma/AI_Video_Intelligence)
+
+  Search CCTV footage in plain language — typed or spoken. A 17-stage pipeline turns
+  video into searchable events through detection, tracking, captioning and CLIP
+  embeddings, then a LangGraph agent returns the matching clips cut at the timestamp.
+
+  `Python` &nbsp;`PyTorch` &nbsp;`FastAPI` &nbsp;`Docker` &nbsp;`ChromaDB` &nbsp;`React`
 
   ---
+
+  #### ☸️  [Kubernetes Voting App](https://github.com/gollareshma/K8s-voting-app)
+
+  Microservices on Kubernetes with the full operational layer — CI/CD, autoscaling,
+  zero-trust network policies, Prometheus and Grafana monitoring, and five documented
+  chaos experiments with written post-mortems.
+
+  `Kubernetes` &nbsp;`GitHub Actions` &nbsp;`Prometheus` &nbsp;`Grafana` &nbsp;`Docker`
+
+  ---
+
+  #### 🔄 [Employee API — CI/CD](https://github.com/gollareshma/employee-api-cicd)
+
+  A Flask REST API with JWT authentication, containerised and delivered through a
+  Jenkins pipeline running on AWS EC2 — checkout, install, launch, test, report.
+
+  `Flask` &nbsp;`Jenkins` &nbsp;`Docker` &nbsp;`MySQL` &nbsp;`AWS EC2`
+
+  ---
+
+  #### 🐧 [LAMP Stack DevOps](https://github.com/gollareshma/lamp-stack-devops-project)
+
+  Provisioning a full LAMP stack two ways — a Bash script versus an idempotent Ansible
+  playbook — to show the difference between scripting a server and declaring one.
+
+  `Ansible` &nbsp;`Bash` &nbsp;`AWS EC2` &nbsp;`Apache` &nbsp;`MySQL`
 
   ### 📊 GitHub stats
 
