@@ -1,9 +1,6 @@
-<p align="center">
-    <img
-  src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Golla+Reshma;Aspiring+MLOps+Engineer;DevOps+%7C+Kuber
-  netes+%7C+CI/CD&font=Fira%20Code&center=true&width=520&height=50&color=58A6FF&vCenter=true&pause=1200&size=26"
-  alt="intro" />
-  </p>
+ <h1 align="center">Hi, I'm Golla Reshma 👋</h1>
+  <h3 align="center">Aspiring MLOps Engineer</h3>
+  <p align="center">DevOps · Kubernetes · CI/CD · Cloud Native</p>
 
   <p align="center">
     <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img
@@ -139,8 +136,7 @@
   If you want the big stats card back, it's the same URL as before — try it again in a day or two, since that
   service goes down under load fairly often:
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gollareshma&show_icons=true&theme=to
-  kyonight&hide_border=true&include_all_commits=true" />
+  
   ---
 
   <p align="center">
