@@ -122,22 +122,25 @@
   ### 📊 GitHub stats
 
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gollareshma&show_icons=true&theme=
-  tokyonight&hide_border=true&include_all_commits=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gollareshma&layout=comp
-  act&theme=tokyonight&hide_border=true&langs_count=8" />
+    <img src="https://img.shields.io/github/followers/gollareshma?style=for-the-badge&logo=github&color=58A6FF&la
+  belColor=0D1117" />
+    <img src="https://img.shields.io/github/stars/gollareshma?style=for-the-badge&logo=github&color=58A6FF&labelC
+  olor=0D1117" />
   </p>
 
   <p align="center">
     <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=gollareshma&theme=tokyonight&hide_border=true" />
+  src="https://github-readme-streak-stats.herokuapp.com/?user=gollareshma&theme=tokyonight&hide_border=true"
+  alt="streak" />
   </p>
 
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gollareshma&theme=tokyonight&no-frame=true&colum
-  n=7&margin-w=8" />
-  </p>
+  The streak card works, and shields.io is about as reliable as image services get.
 
+  If you want the big stats card back, it's the same URL as before — try it again in a day or two, since that
+  service goes down under load fairly often:
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gollareshma&show_icons=true&theme=to
+  kyonight&hide_border=true&include_all_commits=true" />
   ---
 
   <p align="center">
