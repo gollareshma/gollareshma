@@ -1,144 +1,130 @@
- <h1 align="center">Hi, I'm Golla Reshma 👋</h1>
-  <h3 align="center">Aspiring MLOps Engineer</h3>
-  <p align="center">DevOps · Kubernetes · CI/CD · Cloud Native</p>
+# Hi, I'm Golla Reshma 👋
 
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:YOUR-EMAIL@gmail.com"><img
-  src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/gollareshma"><img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
+### B.Tech CSE (AI & ML) · BVRIT, Narsapur
 
-  ---
+Machine learning · Backend · Cloud & DevOps
 
-  ### 👋 About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gollareshma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23211a6657@bvrit.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gollareshma)
 
-  I'm a **B.Tech (CSE — AI & ML)** student working towards a career in **MLOps**.
+---
 
-  My focus is the operational side of software: containerising applications, automating their delivery, and
-  running them reliably. I build projects end to end — not just the code, but the pipeline that ships it, the
-  monitoring that watches it, and the failure testing that proves it holds up.
+### 👋 About me
 
-  - 🔭 Currently working on **computer-vision systems and Kubernetes orchestration**
-  - 🌱 Learning **cloud-native monitoring, chaos engineering and infrastructure as code**
-  - 🎯 Goal: **MLOps Engineer** — bringing DevOps discipline to machine learning systems
-  - 💬 Ask me about **Docker, Kubernetes, Jenkins, Ansible, GitHub Actions**
+I'm a **B.Tech (CSE — AI & ML)** student who likes building things end to end. Not just the model or the
+endpoint, but the pipeline that ships it, the monitoring that watches it, and the tests that prove it holds
+up. That interest has pulled me across three areas that usually stay separate: machine learning, backend
+services, and the infrastructure underneath both.
 
-  ---
+- 🔭 Currently working on **computer vision systems, agentic retrieval, and Kubernetes orchestration**
+- 🌱 Learning **infrastructure as code, cloud-native monitoring, and chaos engineering**
+- 📄 Co-author on a paper on **agentic multimodal retrieval for spatiotemporal event grounding**
+- 🏅 **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- 💬 Ask me about **Docker, Kubernetes, FastAPI, LangGraph, Jenkins, Ansible**
 
-  ### 🛠️  Tech stack
+---
 
-  **Languages**
+### 🛠️ Tech stack
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+**Languages**
 
-  **DevOps & Cloud**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&log
-  oColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+**ML & AI**
 
-  **ML & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-  ![Hugging
-  Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-  ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+**Cloud & DevOps**
 
-  **Monitoring & Data**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-  ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Backend & Data**
 
-  **Backend & Tools**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+---
 
-  ---
+### 📌 Featured projects
 
-  ### 📌 Featured projects
+#### 🎥 [AI Video Intelligence](https://github.com/gollareshma/AI_Video_Intelligence)
 
-  #### 🎥 [AI Video Intelligence](https://github.com/gollareshma/AI_Video_Intelligence)
+Search hours of CCTV footage in plain language — typed or spoken. Detection and tracking cut the video into
+entity-centric clips, captioning and CLIP embeddings make them searchable, and a LangGraph agent returns
+the matching clips cut at the right timestamp. Benchmarked at 15.1% t-IoU against 13.6% for the published
+baseline, running on a single T4.
 
-  Search CCTV footage in plain language — typed or spoken. A 17-stage pipeline turns
-  video into searchable events through detection, tracking, captioning and CLIP
-  embeddings, then a LangGraph agent returns the matching clips cut at the timestamp.
+`Python` `PyTorch` `YOLOv8` `LangGraph` `FastAPI` `ChromaDB` `PostgreSQL` `Docker`
 
-  `Python` &nbsp;`PyTorch` &nbsp;`FastAPI` &nbsp;`Docker` &nbsp;`ChromaDB` &nbsp;`React`
+---
 
-  ---
+#### ☸️ [Kubernetes Voting App](https://github.com/gollareshma/K8s-voting-app)
 
-  #### ☸️  [Kubernetes Voting App](https://github.com/gollareshma/K8s-voting-app)
+Took an existing microservices voting app and built the full operational layer around it — CI/CD,
+autoscaling, zero-trust network policies, Prometheus and Grafana monitoring, and five documented chaos
+experiments with written post-mortems.
 
-  Microservices on Kubernetes with the full operational layer — CI/CD, autoscaling,
-  zero-trust network policies, Prometheus and Grafana monitoring, and five documented
-  chaos experiments with written post-mortems.
+`Kubernetes` `GitHub Actions` `Prometheus` `Grafana` `Docker`
 
-  `Kubernetes` &nbsp;`GitHub Actions` &nbsp;`Prometheus` &nbsp;`Grafana` &nbsp;`Docker`
+> Application code forked from [N4si/K8s-voting-app](https://github.com/N4si/K8s-voting-app).
+> My work is the Kubernetes manifests, pipeline, monitoring, and resilience testing.
 
-  ---
+---
 
-  #### 🔄 [Employee API — CI/CD](https://github.com/gollareshma/employee-api-cicd)
+#### 🔄 [Employee API — CI/CD](https://github.com/gollareshma/employee-api-cicd)
 
-  A Flask REST API with JWT authentication, containerised and delivered through a
-  Jenkins pipeline running on AWS EC2 — checkout, install, launch, test, report.
+A Flask REST API with JWT authentication, containerised and delivered through a Jenkins pipeline on AWS
+EC2 — checkout, install, launch, test, report.
 
-  `Flask` &nbsp;`Jenkins` &nbsp;`Docker` &nbsp;`MySQL` &nbsp;`AWS EC2`
+`Flask` `Jenkins` `Docker` `MySQL` `AWS EC2`
 
-  ---
+---
 
-  #### 🐧 [LAMP Stack DevOps](https://github.com/gollareshma/lamp-stack-devops-project)
+#### 🐧 [LAMP Stack DevOps](https://github.com/gollareshma/lamp-stack-devops-project)
 
-  Provisioning a full LAMP stack two ways — a Bash script versus an idempotent Ansible
-  playbook — to show the difference between scripting a server and declaring one.
+Provisioning a full LAMP stack two ways — a Bash script versus an idempotent Ansible playbook — to show
+the difference between scripting a server and declaring one.
 
-  `Ansible` &nbsp;`Bash` &nbsp;`AWS EC2` &nbsp;`Apache` &nbsp;`MySQL`
+`Ansible` `Bash` `AWS EC2` `Apache` `MySQL`
 
-  ### 📊 GitHub stats
+---
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/gollareshma?style=for-the-badge&logo=github&color=58A6FF&la
-  belColor=0D1117" />
-    <img src="https://img.shields.io/github/stars/gollareshma?style=for-the-badge&logo=github&color=58A6FF&labelC
-  olor=0D1117" />
-  </p>
+#### 🛒 [Instacart Market Basket Analysis](https://github.com/gollareshma/Instacart-Market-Basket-Analysis)
 
-  <p align="center">
-    <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=gollareshma&theme=tokyonight&hide_border=true"
-  alt="streak" />
-  </p>
+Behavioural analysis of 3.4 million grocery orders from 206,000 customers. The clearest finding: reorder
+rates jump 27 percentage points between a customer's first ten orders and their eleventh through twentieth
+— which is where retention effort actually pays.
 
-  The streak card works, and shields.io is about as reliable as image services get.
+`Python` `pandas` `NumPy` `Matplotlib` `Seaborn`
 
-  If you want the big stats card back, it's the same URL as before — try it again in a day or two, since that
-  service goes down under load fairly often:
+---
 
-  
-  ---
+### 📊 GitHub stats
 
-  <p align="center">
-    <i>Building things that run reliably, not just things that run.</i>
-  </p>
+![Stats](https://github-readme-stats.vercel.app/api?username=gollareshma&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+*Building things that run reliably, not just things that run.*
