@@ -1,16 +1,27 @@
-# Hi, I'm Golla Reshma 👋
+<h1 align="center">Hi, I'm Golla Reshma 👋</h1>
 
-### B.Tech CSE (AI & ML) · BVRIT, Narsapur
+<p align="center">
+  <b>B.Tech CSE (AI &amp; ML) · BVRIT, Narsapur</b><br>
+  Machine Learning · Backend Engineering · Cloud &amp; DevOps
+</p>
 
-Machine Learning · Backend Engineering · Cloud & DevOps
+<p align="center">
+  <a href="https://linkedin.com/in/gollareshma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:23211a6657@bvrit.ac.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/gollareshma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gollareshma)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23211a6657@bvrit.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gollareshma)
-
-![AWS SAA-C03](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Salesforce Agentforce](https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-Published%20Co--author-00629B?style=flat-square&logo=ieee&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA-C03">
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce Agentforce">
+  <img src="https://img.shields.io/badge/IEEE-Published%20Co--author-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE co-author">
+</p>
 
 ---
 
